@@ -1,0 +1,17 @@
+# Metadata for sequence1
+# Project: Bioseq-identification
+# Created: 2025-11-13
+# Author: Melissa Ndombasi Bokuy
+# Description: Metadata describing the long_sequence_example used for testing the pipeline
+# Sequence file: long_sequence.fasta
+
+Sequence_ID: sequence1
+Organism: Synthetic test organism
+Sequence_Type: DNA
+Length: ~1000 bp
+GC_Content: ~52%
+Source: Created manually for pipeline testing
+Quality: High (artificial sequence, no sequencing errors)
+Date_Added: 2025-11-13
+Methods: Sequence was constructed using random nucleotide selection in blocks of 50 bp
+
