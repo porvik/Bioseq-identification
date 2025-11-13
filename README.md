@@ -6,11 +6,11 @@ It performs **quality control**, **alignment**, and **taxonomic identification**
 ---
 
 ## ⚙️ Main Features
-✅ Quality Control (FastQC, MultiQC)  
-✅ Sequence Alignment (BWA, Bowtie2)  
-✅ Taxonomic Identification (Kraken2, MEGAN)  
-✅ Workflow Reproducibility (Snakemake, Nextflow)  
-✅ Data Visualization (R, ggplot2)
+- Quality Control (FastQC, MultiQC)
+- Sequence Alignment (BWA, Bowtie2)
+- Taxonomic Identification (Kraken2, MEGAN)
+- Workflow Reproducibility (Snakemake, Nextflow)
+- Data Visualization (R, ggplot2)
 
 ---
 
@@ -33,4 +33,4 @@ It performs **quality control**, **alignment**, and **taxonomic identification**
 
 ## 📄 License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [GNU General Public License v3.0](LICENSE).
