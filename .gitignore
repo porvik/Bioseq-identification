@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# MyST build outputs
+_build
+
+# Large data
+data/raw/metagenome
+data/raw/SRR606249
