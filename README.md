@@ -34,6 +34,10 @@ Together, these tools support a reproducible and interpretable analysis of seque
 | **Melissa Ndombasi Bokuy** | QC Module | |
 | **Jose Iglesias Moure** | Alignment | [Xose1999](https://github.com/Xose1999) |
 | **Viktor Porvaznik** | Taxonomy | [porvik](https://github.com/porvik) |
+| **Jose Iglesias Moure** | Alignment | [@Xose1999](https://github.com/Xose1999) |
+| **Viktor Porvaznik** | Taxonomy ||
+| **Lydia Alvarez Erviti** | Visualization | [@laerviti](https://github.com/laerviti)|
+| **Maria del Mar Rodriguez Ruiz** | Documentation | |
 | **Lydia Alvarez Erviti** | Visualization | |
 | **Maria del Mar Rodriguez Ruiz** | Documentation | [@marrr87](https://github.com/marrr87) |
 
