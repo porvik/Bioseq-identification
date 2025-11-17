@@ -31,7 +31,7 @@ Together, these tools support a reproducible and interpretable analysis of seque
 
 | Name | Role | GitHub |
 |------|------|--------|
-| **Melissa Ndombasi Bokuy** | QC Module | |
+| **Melissa Ndombasi Bokuy** | QC Module | [@melinbo](https://github.com/melinbo)] |
 | **Jose Iglesias Moure** | Alignment | [Xose1999](https://github.com/Xose1999) |
 | **Viktor Porvaznik** | Taxonomy | [porvik](https://github.com/porvik) |
 | **Jose Iglesias Moure** | Alignment | [@Xose1999](https://github.com/Xose1999) |
