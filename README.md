@@ -23,6 +23,8 @@ It performs **quality control**, **alignment**, and **taxonomic identification**
 | **Viktor Porvaznik** | Taxonomy ||
 | **Lydia Alvarez Erviti** | Visualization | [@laerviti](https://github.com/laerviti)|
 | **Maria del Mar Rodriguez Ruiz** | Documentation | |
+| **Lydia Alvarez Erviti** | Visualization | |
+| **Maria del Mar Rodriguez Ruiz** | Documentation | [@marrr87](https://github.com/marrr87) |
 
 ---
 
