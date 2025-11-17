@@ -1,0 +1,11 @@
+version: 2
+format: jb-book
+root: README
+
+chapters:
+  - file: pages/prerequisites
+  - file: pages/quality
+  - file: pages/alignment
+  - file: pages/taxonomy
+  - file: CODE_OF_CONDUCT
+  - file: LICENSE
