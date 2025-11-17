@@ -1,0 +1,11 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 67e7719f-d20d-4106-ba57-98da3482bdc8
+  title: Bioseq-identification
+  description: A collaborative, educational bioinformatics project simulating a real workflow for processing sequencing data.
+  # keywords: []
+  # authors: []
+  github: https://github.com/porvik/Bioseq-identification
+site:
+  template: book-theme
