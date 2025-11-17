@@ -37,6 +37,7 @@ Together, these tools support a reproducible and interpretable analysis of seque
 | **Lydia Alvarez Erviti** | Visualization | [@laerviti](https://github.com/laerviti)|
 | **Maria del Mar Rodriguez Ruiz** | Documentation | [@marrr87](https://github.com/marrr87) |
 
+
 ---
 
 ## 📝 Notes
