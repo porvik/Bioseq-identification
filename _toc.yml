@@ -4,9 +4,17 @@ root: README
 
 chapters:
   - file: pages/prerequisites
-  - file: pages/quality
-  - file: pages/alignment
-  - file: pages/taxonomy
+  - file: pages/analisis
+    sections:
+      - file: pages/overview
+      - file: pages/usage
+      - file: pages/quality
+      - file: pages/alignment
+      - file: pages/taxonomy
+      - file: pages/visualization
+      - file: pages/troubleshooting
   - file: CODE_OF_CONDUCT
   - file: CONTRIBUTING
   - file: SECURITY
+  - file: CHANGELOG
+
