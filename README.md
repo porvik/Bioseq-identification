@@ -1,4 +1,9 @@
-# 🧬 Bioseq-identification
+# Bioseq-identification
+
+```{image} ./pages/logo.png
+:width: 600px
+:align: left
+```
 
 **BioSeq Identification** is a collaborative, educational **bioinformatics project** simulating a real workflow for processing sequencing data.  
 
@@ -18,7 +23,7 @@ Together, these tools support a reproducible and interpretable analysis of seque
 
 ---
 
-## ⚙️ Main Features
+## Main Features
 - Quality Control (FastQC, MultiQC)
 - Sequence Alignment (BWA, Bowtie2)
 - Taxonomic Identification (Kraken2, MEGAN)
@@ -27,24 +32,24 @@ Together, these tools support a reproducible and interpretable analysis of seque
 
 ---
 
-## 👩‍🔬 Collaborators
+## Collaborators
 
-| Name | Role | GitHub |
-|------|------|--------|
-| **Melissa Ndombasi Bokuy** | QC Module | [@melinbo](https://github.com/melinbo) |
-| **Viktor Porvaznik** | Taxonomy | [porvik](https://github.com/porvik) |
+| Name | Role | GitHub                                   |
+|------|------|------------------------------------------|
+| **Melissa Ndombasi Bokuy** | QC Module | [@melinbo](https://github.com/melinbo)   |
+| **Viktor Porvaznik** | Taxonomy | [@porvik](https://github.com/porvik)     |
 | **Jose Iglesias Moure** | Alignment | [@Xose1999](https://github.com/Xose1999) |
-| **Lydia Alvarez Erviti** | Visualization | [@laerviti](https://github.com/laerviti)|
-| **Maria del Mar Rodriguez Ruiz** | Documentation | [@marrr87](https://github.com/marrr87) |
+| **Lydia Alvarez Erviti** | Visualization | [@laerviti](https://github.com/laerviti) |
+| **Maria del Mar Rodriguez Ruiz** | Documentation | [@marrr87](https://github.com/marrr87)   |
 
 
 ---
 
-## 📝 Notes
+## Notes
 - Use **feature branches** for development.  
 - Commit messages should be *concise and descriptive*.  
 - Pull requests must include a **summary and screenshots** when relevant.
 
-## 📄 License
+## License
 
 This project is released under the [GNU General Public License v3.0](LICENSE).

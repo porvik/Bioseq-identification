@@ -6,6 +6,6 @@ project:
   description: A collaborative, educational bioinformatics project simulating a real workflow for processing sequencing data.
   # keywords: []
   # authors: []
-  github: https://github.com/porvik/Bioseq-identification
+  github: https://github.com/melinbo/Bioseq-identification
 site:
   template: book-theme

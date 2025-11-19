@@ -5,7 +5,7 @@ Este documento describe las normas y buenas prácticas para colaborar.
 
 ------------------------------------------------------------------------
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 Por favor mantén la siguiente organización:
 
@@ -30,7 +30,7 @@ Por favor mantén la siguiente organización:
 
 ------------------------------------------------------------------------
 
-## 🧬 Buenas prácticas para contribuir
+## Buenas prácticas para contribuir
 
 ### 1. Usa ramas para cualquier cambio
 
@@ -61,7 +61,7 @@ datos mínimos en `data/test/` - Si es posible, añade archivos
 
 ------------------------------------------------------------------------
 
-## 🧪 Cómo ejecutar las pruebas
+## Cómo ejecutar las pruebas
 
 Incluye datos de ejemplo en `data/test/`.\
 Para ejecutar pruebas básicas del pipeline:
@@ -70,7 +70,7 @@ Para ejecutar pruebas básicas del pipeline:
 
 ------------------------------------------------------------------------
 
-## 📝 Pull Requests
+## Pull Requests
 
 Antes de crear un **Pull Request**, verifica:
 
@@ -85,7 +85,7 @@ En el PR, describe claramente: - Qué cambiaste\
 
 ------------------------------------------------------------------------
 
-## 🤝 Código de conducta
+## Código de conducta
 
 Por favor mantén un ambiente respetuoso y colaborativo.\
 Trabajamos bajo un código de conducta simple:\

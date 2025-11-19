@@ -8,4 +8,5 @@ chapters:
   - file: pages/alignment
   - file: pages/taxonomy
   - file: CODE_OF_CONDUCT
-  - file: LICENSE
+  - file: CONTRIBUTING
+  - file: SECURITY
