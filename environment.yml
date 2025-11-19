@@ -1,0 +1,16 @@
+name: jbook-r
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - sra-tools
+  - kraken2
+  - python=3.10
+  - pip
+  - nodejs
+  - jupyterlab
+  - jupyter-book
+  - r-base
+  - r-essentials
+  - r-ggplot2
+  - r-irkernel
